@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog Complete Project - A starter website
